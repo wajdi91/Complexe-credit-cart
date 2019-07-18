@@ -1,0 +1,75 @@
+.margin-top50 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.credit {
+  margin-top: 100px;
+  height: 250px;
+  width: 400px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg)
+    no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.bank {
+  margin: 10px;
+  margin-left: 290px;
+  height: 60px;
+  width: 80px;
+
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACqCAMAAADGFElyAAAAt1BMVEX////rABv3nhv/XwDqAADqABz3mAD/XAD3oRz3mgD/YgD3nRj2lQDrABX/WgD3nA33Qw7rAAj+9/j7hBLwKhb9bgn4mBj/+/b+8uT+9fbvHRf4u7/4pjf97tz5t2X71azziZD8Ugj8dg33r7T95cr6xYj70J/4q0ftHzLydn36woDxbnf7zJX96Or0lJv3oyvtMDzvVV760tXuOUb5tFz86d383eD84cL5vHPwZm7sECb0jJP5lBfq5TerAAACRUlEQVR4nO3aa3OaQBTGcZF1ERAJ9KLEeEk1UXKpxqQ2afv9P1fVYKO7xJm2L44z/H8v99WZZ84uh4VaDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4J9lq+VylR0sdfqTSbcjVM+JWo0WamuWL4ul789zveFP77qitZ2S5aNSkbMVJWrWWy8NQx2H9a3Ybz2R1Va+i6kISz18m+oipiIsfSdd5AnIFsoxJO24btBP0nWKS2eJkVPj3HWD0IzKn0pXKu3RDMpxPNf1AjOpun6WLlXWT2vrNS4Ddx3Vl6YV1VC6WEn3dlAfN0G5bvuXmVToS1cr6dbee+1tUK73yWoqv8IPwMxqKadoqXVTfbaaqildr5yxvfnOdkl5H+yTaiJdsJgXa/M1PHeH7bfnR2Qm5QR/kvKspOLqjp/2MXX+llTJQTWXLliKPSO8HeilScXSFUs59ugrTSqUrliMPU3t7z7r3S+8kC5YzOzYie7aJ/pAumAxuT0ltI9NCdfSBYvp/d3k2epLFywmPTImeBxT+0Ylly5FUFy7HHi/qZg7De+9I7dL3o/7k0p/osntrroMym6n9HWtW+mkag8lUZVMCPpGulB5t8qcP1Xgm2dUq7oXLnvGyUFbJepr7Ubvf/EL9by6d3gH0pFSSbTprChRKr9fL/UHrdfP7WHs67i6s7mtly8cpaLFyzgtVjrDwUXs+83pFf1kSLMsNZY6Hf4JAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/+U3e0UhV4AtwE4AAAAASUVORK5CYII=)
+    no-repeat center center;
+}
+
+.card-number {
+  margin-left: 20px;
+  border: none;
+  background: transparent;
+  height: 91px;
+  padding-top: 10px;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 3px;
+  color: #ffd700;
+}
+
+.date {
+  margin-bottom: 20px;
+  margin-left: 320px;
+  border: none;
+  background: transparent;
+
+  font-weight: 60;
+  font-size: 16px;
+  height: 25px;
+  color: #ffd700;
+}
+.label {
+  color: #ffd700;
+
+  height: 100px;
+  width: 100px;
+}
+.labeldate {
+  display: flex;
+  color: #ffd700;
+  height: 50px;
+  width: 50px;
+}
+.card-name {
+  text-transform: uppercase;
+  margin-left: 20px;
+  border: none;
+  background: transparent;
+  text-align-last: left;
+  font-size: 20px;
+  color: #ffd700;
+}
+/* .puce {
+  background: url(https://previews.123rf.com/images/suppakij1017/suppakij10171211/suppakij1017121100126/16373925-puce-%C3%A9lectronique.jpg)
+    no-repeat center center;
+  width: 60px;
+  height: 50px;
+} */
